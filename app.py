@@ -38,7 +38,7 @@ def gehe_zu_start():
 
 # --- 1. STARTSEITE ---
 if st.session_state.seite == 'start':
-    st.title("🚒 Jugendleistungsspanne")
+    st.title("🚒 Jugendleistungsspange")
     st.write("Bereit für die Übung? Wähle einen Modus:")
     
     col1, col2 = st.columns(2)
