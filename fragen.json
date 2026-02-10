@@ -22,7 +22,7 @@
   {
     "frage": "Was ist die Jugendfeuerwehr?",
     "loesung": "Die Jugendabteilung der Feuerwehr.",
-    "erklaerung": ""
+    "erklaerung": "In Bayern ist man in der Regel von 12 bis 18 in der Jugendfeuerwehr"
   },
   {
     "frage": "Was ist die 'Deutsche Jugendfeuerwehr'?",
@@ -46,13 +46,13 @@
   },
   {
     "frage": "Wie lange kann man einer Freiwilligen Feuerwehr aktiv angehören?",
-    "loesung": "Vom 18. bis zum vollendeten 65. Lebensjahr.",
-    "erklaerung": "In Bayern endet der aktive Dienst mit 65 Jahren."
+    "loesung": "Vom 12/18. bis zum vollendeten 67. Lebensjahr.",
+    "erklaerung": "In Bayern endet der aktive Dienst mit 67 Jahren."
   },
   {
     "frage": "Wie ist das Eintrittsalter in die JF und wann erfolgt die Übernahme in die aktive Wehr?",
     "loesung": "Eintritt ab 12 Jahren, Übernahme in den aktiven Dienst ab 18 Jahren.",
-    "erklaerung": "In Bayern darf man ab 12 Jahren in die JF. Unter 12 gibt es oft Kinderfeuerwehren."
+    "erklaerung": "In Bayern darf man ab 12 Jahren in die JF. Unter 12 gibt es oft Kinderfeuerwehren. (Ab 16 und abgeschlossener MTA-Zwischenprüfung dürfen ausgewählte Einsätze gefahren werden)"
   },
   {
     "frage": "Wie heißt der Angehörige einer Jugendfeuerwehr offiziell?",
@@ -62,7 +62,7 @@
   {
     "frage": "Wie nennt man den Betreuer und Ausbilder in der Jugendfeuerwehr?",
     "loesung": "Jugendwart.",
-    "erklaerung": ""
+    "erklaerung": "Für Eichsätt: Max Nemrava, für Wasserzell: Michael Obele"
   },
   {
     "frage": "Wer ist der Leiter der Jugendfeuerwehr und wie wird er bestimmt?",
@@ -87,7 +87,7 @@
   {
     "frage": "Wie nennt man den Betreuer der Jugendfeuerwehr auf Kreisebene?",
     "loesung": "Kreisjugendwart (KJW).",
-    "erklaerung": "Im Landkreis Eichstätt ist dies aktuell Franz-Xaver Beer."
+    "erklaerung": "Im Landkreis Eichstätt ist dies aktuell Chrisian Heckel."
   },
   {
     "frage": "Wie nennt man den Betreuer der Jugendfeuerwehr auf Landesebene?",
@@ -132,7 +132,7 @@
   {
     "frage": "Welche 5 Leistungen werden für die Leistungsspange gefordert?",
     "loesung": "Schnelligkeitsübung, Kugelstoßen, Staffellauf, Löschangriff und Beantwortung von Fragen.",
-    "erklaerung": "Es handelt sich um eine Gemeinschaftsleistung der Gruppe (9 Personen)."
+    "erklaerung": "Es handelt sich um eine Gemeinschaftsleistung der Gruppe/Staffel."
   },
   {
     "frage": "Wie wird die Leistungsspange getragen?",
@@ -175,8 +175,8 @@
     "erklaerung": "Dort ist verankert, dass die JF Teil der allgemeinen Jugendarbeit ist."
   },
   {
-    "frage": "Was bedeuten die Abkürzungen der Dienstgrade und Funktionen (FM bis BJS)?",
-    "loesung": "FM=Feuerwehrmann, OFM=Oberfeuerwehrmann, HFM=Hauptfeuerwehrmann, BM=Brandmeister, GBM=Gemeindebrandmeister, KBM=Kreisbrandmeister, BBM=Bezirksbrandmeister.",
+    "frage": "Was bedeuten die Abkürzungen der Dienstgrade und Funktionen (FM, OFM, HFM, BM, GBM, KBM, BBM, Jfm,  JFW, FJFW, KJFW, BJFW, BJL, BJS)?",
+    "loesung": "FM=Feuerwehrmann, OFM=Oberfeuerwehrmann, HFM=Hauptfeuerwehrmann, BM=Brandmeister, GBM=Gemeindebrandmeister, KBM=Kreisbrandmeister, BBM=Bezirksbrandmeister, Jfm=Jugendfeuerwehrmitglied, JFW=Jugendfeuerwehrwart, GJFW=Gemeinde-Jugendfeuerwehrwart, KJFW=Kreis-Jugendfeuerwehrwart, BJFW=Bezirks-Jugendfeuerwehrwart, LJFW=Landes-Jugendfeuerwehrwart, BJL=Bundesjugendleiter, BJS=Bundesjugendsekretär.",
     "erklaerung": "Zusätzlich: Jfm=Jugendfeuerwehrmitglied, JFW=Jugendwart, KJFW=Kreisjugendwart, BJL=Bundesjugendleiter, BJS=Bundesjugendsekretär."
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "frage": "Wie lauten die offiziellen Notruf-Nummern?",
-    "loesung": "Feuerwehr und Rettungsdienst: 112, Polizei: 110.",
+    "loesung": "Feuerwehr und Rettungsdienst: 112, Polizei: 110, Ärztlichen Bereitschaftsdienst: 116 117.",
     "erklaerung": "Die 112 ist der europaweite Notruf."
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "frage": "Dürfen Mitglieder der JF bei Übungen und Einsätzen eingesetzt werden?",
-    "loesung": "Kein Einsatzdienst! Ab 16 Jahren ist die Teilnahme am Übungsdienst der Aktiven erlaubt.",
+    "loesung": "Kein Einsatzdienst! Ab 16 Jahren ist die Teilnahme an bestimmten Einsätzen erlaubt. Vorraussetzung ist hier eine abgeschlossene MTA-Grundausbildung",
     "erklaerung": "Jugendschutz geht immer vor."
   },
   {
