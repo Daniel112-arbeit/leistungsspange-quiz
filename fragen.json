@@ -1,507 +1,502 @@
 [
-  {
-    "frage": "Welche Aufgaben hat die Feuerwehr?",
-    "loesung": "Menschen und Tiere retten/schützen, Brände bekämpfen, technische Hilfe leisten, Sachwerte bergen, im Katastrophenschutz mitwirken sowie Brandschutzerziehung.",
-    "erklaerung": "Merksatz: Retten, Löschen, Bergen, Schützen."
-  },
-  {
-    "frage": "Welche Arten von Feuerwehren gibt es in Deutschland?",
-    "loesung": "Freiwillige Feuerwehr, Berufsfeuerwehr, Werkfeuerwehr, Betriebsfeuerwehr und Pflichtfeuerwehr.",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Wie heißt der Verband, in dem die Feuerwehren zusammengeschlossen sind?",
-    "loesung": "Deutscher Feuerwehrverband (DFV)",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Gibt es auf Landesebene auch einen Verband der Feuerwehren?",
-    "loesung": "Ja, den Landesfeuerwehrverband Bayern (LFV Bayern).",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Was ist die Jugendfeuerwehr?",
-    "loesung": "Die Jugendabteilung der Feuerwehr.",
-    "erklaerung": "In Bayern ist man in der Regel von 12 bis 18 in der Jugendfeuerwehr"
-  },
-  {
-    "frage": "Was ist die 'Deutsche Jugendfeuerwehr'?",
-    "loesung": "Zusammenschluss aller Jugendfeuerwehren in Deutschland (innerhalb des DFV).",
-    "erklaerung": "Abkürzung: DJF."
-  },
-  {
-    "frage": "Welches ist die gesetzliche Grundlage für die Tätigkeiten der Feuerwehren in Bayern?",
-    "loesung": "Das Bayerische Feuerwehrgesetz (BayFwG).",
-    "erklaerung": "Zusammen mit der Ausführungsverordnung (AVBayFwG)."
-  },
-  {
-    "frage": "Wer erlässt dieses Gesetz in Bayern?",
-    "loesung": "Der Bayerische Landtag.",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Wer ist der Träger des Brandschutzes?",
-    "loesung": "Die Gemeinde.",
-    "erklaerung": "Sie muss die Feuerwehr ausrüsten und unterhalten."
-  },
-  {
-    "frage": "Wie lange kann man einer Freiwilligen Feuerwehr aktiv angehören?",
-    "loesung": "Vom 12/18. bis zum vollendeten 67. Lebensjahr.",
-    "erklaerung": "In Bayern endet der aktive Dienst mit 67 Jahren."
-  },
-  {
-    "frage": "Wie ist das Eintrittsalter in die JF und wann erfolgt die Übernahme in die aktive Wehr?",
-    "loesung": "Eintritt ab 12 Jahren, Übernahme in den aktiven Dienst ab 18 Jahren.",
-    "erklaerung": "In Bayern darf man ab 12 Jahren in die JF. Unter 12 gibt es oft Kinderfeuerwehren. (Ab 16 und abgeschlossener MTA-Zwischenprüfung dürfen ausgewählte Einsätze gefahren werden)"
-  },
-  {
-    "frage": "Wie heißt der Angehörige einer Jugendfeuerwehr offiziell?",
-    "loesung": "Mitglied der Jugendfeuerwehr (Feuerwehranwärter).",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Wie nennt man den Betreuer und Ausbilder in der Jugendfeuerwehr?",
-    "loesung": "Jugendwart.",
-    "erklaerung": "Für Eichsätt: Max Nemrava, für Wasserzell: Michael Obele"
-  },
-  {
-    "frage": "Wer ist der Leiter der Jugendfeuerwehr und wie wird er bestimmt?",
-    "loesung": "Der Jugendsprecher (auf Ebene der Jugendlichen). Der Jugendwart wird vom Kommandanten bestimmt.",
-    "erklaerung": "In Bayern wird der Jugendwart meist vom Kommandanten ernannt, nicht von der Jugend gewählt."
-  },
-  {
-    "frage": "Auf welcher Grundlage arbeitet die Jugendfeuerwehr?",
-    "loesung": "Auf der Grundlage der Jugendordnung der jeweiligen Feuerwehr.",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Was ist der Jugendausschuss?",
-    "loesung": "Die gewählte Vertretung der Jugendlichen innerhalb der Feuerwehr.",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Wer gehört zum Jugendausschuss?",
-    "loesung": "Jugendsprecher, Stellvertreter, Schriftführer, Kassenwart.",
-    "erklaerung": ""
-  },
-  {
-    "frage": "Wie nennt man den Betreuer der Jugendfeuerwehr auf Kreisebene?",
-    "loesung": "Kreisjugendwart (KJW).",
-    "erklaerung": "Im Landkreis Eichstätt ist dies aktuell Chrisian Heckel."
-  },
-  {
-    "frage": "Wie nennt man den Betreuer der Jugendfeuerwehr auf Landesebene?",
-    "loesung": "Landesjugendfeuerwehrwart.",
-    "erklaerung": "In Bayern ist dies Heinrich Scharf."
-  },
-  {
-    "frage": "Wie nennt man den Betreuer der Jugendfeuerwehr auf Bundesebene?",
-    "loesung": "Bundesjugendleiter (BJL).",
-    "erklaerung": "Aktuell ist dies Christian Patzelt."
-  },
-  {
-    "frage": "Was bedeuten die Abkürzungen: JF, JFW, KJW, LJW, BJL, FF, BF, WF, DFV, DJF?",
-    "loesung": "JF=Jugendfeuerwehr, JFW=Jugendwart, KJW=Kreisjugendwart, LJW=Landesjugendwart, BJL=Bundesjugendleiter, FF=Freiwillige Feuerwehr, BF=Berufsfeuerwehr, WF=Werkfeuerwehr, DFV=Deutscher Feuerwehrverband, DJF=Deutsche Jugendfeuerwehr.",
-    "erklaerung": "Dies sind die wichtigsten Kürzel im Feuerwehrwesen."
-  },
-  {
-    "frage": "Wo ist das Sekretariat der DJF und wer ist der aktuelle Bundesjugendleiter?",
-    "loesung": "Das Sekretariat ist in Berlin. Der Bundesjugendleiter ist Christian Patzelt.",
-    "erklaerung": "Die DJF hat ihren Hauptsitz in der Bundeshauptstadt."
+ {
+"frage": "1. Welche Aufgaben hat the Feuerwehr?",
+"loesung": "Dem Einzelnen und der Allgemeinheit in Brandgefahren und bei sonstigen Notständen beistehen. Menschen und Tiere retten und schützen. Güter bergen, Brände bekämpfen und technische Hilfe leisten.",
+"erklaerung": "Merksatz: Retten, Löschen, Bergen, Schützen."
+},
+{
+"frage": "2. Welche Arten von Feuerwehren gibt es in Deutschland?",
+"loesung": "Freiwillige Feuerwehren, Berufsfeuerwehren, Werksfeuerwehren, Betriebsfeuerwehren und Pflichtfeuerwehren.",
+"erklaerung": "Unterscheidung nach Trägerschaft und gesetzlicher Verpflichtung."
+},
+{
+"frage": "3. Welche Art der Feuerwehr ist in deiner Gemeinde vorhanden?",
+"loesung": "Freiwillige Feuerwehr.",
+"erklaerung": "Dies ist die in der Gemeinde vorhandene Organisationsform."
+},
+{
+"frage": "4. Wer ist der Träger der Freiwilligen Feuerwehr?",
+"loesung": "Die Gemeinde.",
+"erklaerung": "Die Gemeinde ist gesetzlich für den Brandschutz verantwortlich."
+},
+{
+"frage": "5. Wer führt eine Freiwillige Feuerwehr?",
+"loesung": "Der gewählte Kommandant.",
+"erklaerung": "Die Leitung erfolgt durch eine gewählte Person."
+},
+{
+"frage": "6. Wer wählt den Kommandanten der Feuerwehr?",
+"loesung": "Alle aktiven Mitglieder der Freiwilligen Feuerwehr vom 16. bis 65. Lebensjahr.",
+"erklaerung": "Die Wahl erfolgt demokratisch durch die aktiven Mitglieder."
+},
+{
+"frage": "7. Was ist eine Jugendfeuerwehr?",
+"loesung": "Es ist die Jugendgruppe der Feuerwehr.",
+"erklaerung": "Die Jugendabteilung der jeweiligen Feuerwehr."
+},
+{
+"frage": "8. Nach welchem Gesetz ist der Brandschutz geregelt?",
+"loesung": "Nach dem Bayerischen Feuerwehrgesetz.",
+"erklaerung": "Gesetzliche Grundlage für den Brandschutz."
+},
+{
+"frage": "9. Wer erlässt das Bayerische Feuerwehrgesetz?",
+"loesung": "Das Bayerische Staatsministerium des Inneren, genauer vom Bayerischen Landtag.",
+"erklaerung": "Das Gesetz wird durch die parlamentarische Instanz erlassen."
+},
+{
+"frage": "10. Wer ist die Deutsche Jugendfeuerwehr?",
+"loesung": "Die Gemeinschaft der Jugend innerhalb des Deutschen Feuerwehrverbandes. Zusammenschluss aller Jugendfeuerwehren in Deutschland.",
+"erklaerung": "Der bundesweite Dachverband für Jugendfeuerwehren."
+},
+{
+"frage": "11. Wie heißt der Verband, in dem die Feuerwehren auf Landesebene zusammengeschlossen sind?",
+"loesung": "Landesfeuerwehrverband (LFV).",
+"erklaerung": "Zusammenschluss auf Ebene der Bundesländer."
+},
+{
+"frage": "12. Ab wann kann man in die Jugendfeuerwehr eintreten?",
+"loesung": "In Bayern mit dem vollendeten 12. Lebensjahr. In den anderen Bundesländern nach Gesetzgebung der einzelnen Länder.",
+"erklaerung": "Das Mindestalter ist gesetzlich geregelt."
+},
+{
+"frage": "13. Wie nennt man den Betreuer und Ausbilder der Jugendgruppe der Freiwilligen Feuerwehr?",
+"loesung": "Jugendfeuerwehrwart, er wird vom Kommandanten eingesetzt.",
+"erklaerung": "Verantwortliche Person für die Jugendausbildung."
+},
+{
+"frage": "14. Wer kann die Leistungsspange der Deutschen Jugendfeuerwehr erwerben?",
+"loesung": "Mitglieder der Jugendfeuerwehr im Alter von 15-18 Jahren, wenn sie mindestens ein Jahr der Jugendfeuerwehr angehören. Ferner müssen die Übungsbedingungen erfüllt werden und ein gültiger Mitgliedsausweis muss vorliegen.",
+"erklaerung": "Voraussetzungen für die Leistungsabzeichen-Prüfung."
+},
+{
+"frage": "15. Was ist ein Löschfahrzeug?",
+"loesung": "Löschfahrzeuge sind für die Brandbekämpfung besonders gestaltete und zur Aufnahme einer Besatzung und einer feuerwehrtechnischen Beladung eingerichtete Kraftfahrzeuge.",
+"erklaerung": "Definition eines spezialisierten Einsatzfahrzeugs."
+},
+{
+"frage": "16. Was ist ein Löschgruppenfahrzeug?",
+"loesung": "Fahrzeuge zur Aufnahme einer Löschgruppe (1/8), mit einer vom Fahrzeugmotor angetriebenen Feuerlöschkreiselpumpe und einer feuerwehrtechnischen Beladung. Es ist mit seiner Besatzung die kleinste selbständige Einheit zur Brandbekämpfung.",
+"erklaerung": "Das Standardfahrzeug für eine Löschgruppe."
+},
+{
+"frage": "17. Wie heißt die kleinste taktische Einheit der Feuerwehr zur selbständigen Brandbekämpfung?",
+"loesung": "Die Löschgruppe - Stärke 1/8.",
+"erklaerung": "Kleinste Einheit für autarke Brandbekämpfung."
+},
+{
+"frage": "18. In welche Funktion gliedert sich eine Löschgruppe?",
+"loesung": "Gruppenführer; Maschinist; Melder; Angriffstruppführer und -mann; Wassertruppführer und -mann; Schlauchtruppführer und -mann.",
+"erklaerung": "Aufteilung der taktischen Rollen innerhalb der Gruppe."
+},
+{
+"frage": "19. Welche Leistungen bzw. Voraussetzungen werden für die Leistungsspange gefordert?",
+"loesung": "In einer Gesamtleistung einer Gruppe müssen fünf verschiedene Leistungen erbracht werden: Schnelligkeitsübung, Kugelstoßen, Staffellauf, Löschangriff gemäß FwDV 3 und Beantwortung von Fragen.",
+"erklaerung": "Da es eine Gruppenwertung ist, können Stärkere den Schwächeren helfen."
+},
+{
+"frage": "20. Kennst du noch andere Einheiten der Feuerwehr?",
+"loesung": "Löschtrupp 1/2; Löschstaffel 1/5; Löschzug mind. 1/16.",
+"erklaerung": "Aufzählung weiterer taktischer Einheiten."
+},
+{
+    "frage": "21. Welche Feuerwehrfahrzeuge (Gruppen) kennen wir?",
+    "loesung": "Einsatzleitfahrzeuge, Löschfahrzeuge, Hubrettungsfahrzeuge, Drehleiter mit Handbetrieb, Rüst- und Gerätewagen, Schlauchwagen, Sonderlöschmittelfahrzeuge, Rettungsfahrzeuge, Feuerwehranhänger, Sonst. Fahrzeuge der Feuerwehr. [cite: 50]",
+    "erklaerung": "Es gibt eine Vielzahl von spezialisierten Fahrzeugen, die je nach Einsatzart benötigt werden."
   },
   {
-    "frage": "Wo wird das Ärmelabzeichen der DJF getragen?",
-    "loesung": "Auf dem linken Ärmel des Übungsanzuges, genau seitlich, 4 cm unter der Schulternaht.",
-    "erklaerung": "Das Abzeichen muss an einer exakt festgelegten Stelle sitzen."
+    "frage": "22. Welche genormten Löschfahrzeuge kennen wir? Wie lauten Ihre Abkürzungen?",
+    "loesung": "Tragkraftspritzenfahrzeug (TSF), Tragkraftspritzenfahrzeug Wasser (TSF-W), Mittleres Löschfahrzeug (MLF), Tanklöschfahrzeug (TLF), Löschgruppenfahrzeug (LF), Hilfeleistungslöschgruppenfahrzeug (HLF). [cite: 52-64]",
+    "erklaerung": "Die Abkürzungen stehen für den Typ und die jeweilige Ausstattung des Fahrzeugs."
   },
   {
-    "frage": "Wer darf die Traditionsnadel der Jugendfeuerwehr tragen?",
-    "loesung": "Mitglieder, die aus der JF in die aktive Wehr übernommen wurden und die Leistungsspange erworben haben.",
-    "erklaerung": "Sie wird auf der linken Tasche des Dienstrockes getragen."
+    "frage": "23. Wodurch sind Feuerwehrfahrzeuge bei Einsatzfahrten und Fahrten zu Alarmübungen gekennzeichnet?",
+    "loesung": "Durch blaue Rundumkennleuchte (Blaulicht) und durch Martinshorn (Mehrklanghorn). [cite: 67-68]",
+    "erklaerung": "Diese Kennzeichnung signalisiert Sonderrechte im Straßenverkehr."
   },
   {
-    "frage": "Wer verleiht die Ehrennadel der Deutschen Jugendfeuerwehr?",
-    "loesung": "Der Präsident des Deutschen Feuerwehrverbandes.",
-    "erklaerung": "Die Verleihung erfolgt auf Antrag über den KJW und LJW."
+    "frage": "24. Nenne die persönliche Ausrüstung eines Jugendfeuerwehranwärters (bis 16 Jahre)?",
+    "loesung": "Jugendschutzanzug, Schutzhelm orange, Schmalgurt mit Zweidornschnalle, festes Schuhwerk, Schutzhandschuhe. [cite: 70-74]",
+    "erklaerung": "Die Ausrüstung dient der Sicherheit des Jugendlichen bei der Ausbildung."
   },
   {
-    "frage": "Wer kann die Leistungsspange der Deutschen Jugendfeuerwehr erwerben?",
-    "loesung": "Mitglieder der JF im Alter von 15 bis 18 Jahren, wenn sie mindestens ein Jahr in der JF sind.",
-    "erklaerung": "Die Leistungsspange ist die höchste Auszeichnung der DJF."
+    "frage": "25. In welche drei Hauptgruppen werden die wasserführenden Armaturen eingeteilt?",
+    "loesung": "Armaturen zur Wasserentnahme, Armaturen zur Wasserfortleitung, Armaturen zur Wasserabgabe. [cite: 76-78]",
+    "erklaerung": "Diese Einteilung folgt dem Weg des Wassers von der Quelle bis zum Brandherd."
   },
   {
-    "frage": "Welche 5 Leistungen werden für die Leistungsspange gefordert?",
-    "loesung": "Schnelligkeitsübung, Kugelstoßen, Staffellauf, Löschangriff und Beantwortung von Fragen.",
-    "erklaerung": "Es handelt sich um eine Gemeinschaftsleistung der Gruppe/Staffel."
+    "frage": "26. Welche wasserführenden Armaturen gibt es?",
+    "loesung": "Standrohr, Saugkorb, Sammelstück, Verteiler, Strahlrohre, Kupplungen, Übergangsstücke, Druckbegrenzungsventil. [cite: 80]",
+    "erklaerung": "Dies sind die Standardwerkzeuge zur Handhabung der Wasserversorgung."
   },
   {
-    "frage": "Wie wird die Leistungsspange getragen?",
-    "loesung": "Am Übungsanzug oder später am Dienstrock oberhalb der linken Brusttasche.",
-    "erklaerung": "Sie bleibt auch nach der Übernahme in die aktive Wehr erhalten."
+    "frage": "27. Wozu dient ein Standrohr?",
+    "loesung": "Es dient zur Entnahme von Löschwasser aus Unterflurhydranten. [cite: 82]",
+    "erklaerung": "Es ist das Verbindungsstück zwischen Hydrant und Schlauchleitung."
   },
   {
-    "frage": "Was ist der Mitgliedsausweis der Deutschen Jugendfeuerwehr?",
-    "loesung": "Ein einheitlicher Ausweis, der die Zugehörigkeit zur JF und als Besitzurkunde für Auszeichnungen dient.",
-    "erklaerung": "Er ist eine wichtige Urkundensammlung für den späteren Feuerwehrdienst."
+    "frage": "28. Wozu dient der Saugkorb?",
+    "loesung": "Zum Zurückhalten großer Schmutzteile von der Pumpe, zum Festhalten der Wassersäule bei Pumpenstillstand und zur Sicherstellung des Auffüllens bei Versagen der Entlüftung. [cite: 84-86]",
+    "erklaerung": "Er schützt die Pumpe und hält die Saugleitung gefüllt."
   },
   {
-    "frage": "Welche Daten stehen im Mitgliedsausweis?",
-    "loesung": "Ausweisnummer, Personalien, Eintrittsdatum, Verleihung der Leistungsspange, Lehrgänge und Übernahmebescheinigung.",
-    "erklaerung": "Dort werden alle wichtigen Meilensteine deiner JF-Zeit dokumentiert."
+    "frage": "29. Wozu dient das Sammelstück?",
+    "loesung": "Es dient dazu, zwei ankommende Leitungen (Druckschläuche) in die nächstgrößere überzuleiten oder zwei ankommende B-Leitungen am Saugstutzen der Pumpe anzuschließen. [cite: 88]",
+    "erklaerung": "Es führt mehrere Wasserströme zu einem zusammen."
   },
   {
-    "frage": "Werden die Dienstjahre in der Jugendfeuerwehr für die Gesamtdienstzeit in der Freiwilligen Feuerwehr mitgerechnet?",
-    "loesung": "Ja.",
-    "erklaerung": "Die Zeit in der JF zählt zur gesamten Dienstzeit in der Feuerwehr dazu."
+    "frage": "30. Wozu dient der Verteiler?",
+    "loesung": "Ein Verteiler hat die Aufgabe, eine ankommende Leitung in maximal 3 Leitungen aufzuteilen (Strahlrohrstrecke). [cite: 90]",
+    "erklaerung": "Er ist die zentrale Verzweigungsstelle für die Einsatzleitung."
   },
   {
-    "frage": "Ist die Gemeinde bzw. Freiwillige Feuerwehr zur Gründung einer JF verpflichtet?",
-    "loesung": "Bei den Freiwilligen Feuerwehren sollten nach Möglichkeit Jugendfeuerwehren gebildet werden.",
-    "erklaerung": "Es ist eine Soll-Bestimmung, um den Nachwuchs für den aktiven Dienst sicherzustellen."
+    "frage": "31. Welchen Zweck hat ein Mehrzweckstrahlrohr?",
+    "loesung": "Abgabe von Löschmitteln, Formung des Löschmittels (Voll- oder Sprühstrahl) und Absperrbarkeit. [cite: 92-93]",
+    "erklaerung": "Es ermöglicht eine flexible Anpassung an die jeweilige Brandbekämpfung."
   },
   {
-    "frage": "Welches ist die Mindeststärke für eine Jugendfeuerwehr?",
-    "loesung": "Laut Jugendordnung sollte eine Jugendfeuerwehr mindestens eine Gruppenstärke haben.",
-    "erklaerung": "Eine Gruppe besteht im Feuerwehrwesen aus 9 Personen (1 Führer + 8 Mannschaft)."
+    "frage": "32. Wozu dienen Kupplungen?",
+    "loesung": "Kupplungen dienen zum Verbinden von Schläuchen untereinander sowie zum Anschluss an Armaturen. [cite: 95]",
+    "erklaerung": "Sie sind die mechanische Verbindung für alle schlauchartigen Leitungen."
   },
   {
-    "frage": "Wird in der Jugendfeuerwehr nur Feuerwehrdienst geleistet?",
-    "loesung": "Nein! Der Dienst setzt sich aus ca. 50% feuerwehrtechnischer Ausbildung und ca. 50% allgemeiner Jugendarbeit zusammen.",
-    "erklaerung": "Allgemeine Jugendarbeit umfasst z. B. Sport, Zeltlager, Fahrten und Ausflüge."
+    "frage": "33. Wozu dient ein Übergangsstück?",
+    "loesung": "Zur Verbindung von Kupplungen verschiedener Größe. [cite: 97]",
+    "erklaerung": "Es ermöglicht das Zusammenschließen von Leitungen mit unterschiedlichen Durchmessern."
   },
   {
-    "frage": "Wo sind die Aufgaben und die Zusammensetzung des Jugendfeuerwehrdienstes festgelegt?",
-    "loesung": "In der Jugendordnung der Deutschen Jugendfeuerwehr (DJF).",
-    "erklaerung": "Dort ist verankert, dass die JF Teil der allgemeinen Jugendarbeit ist."
+    "frage": "34. Womit wird Wasser für Löschzwecke aus dem Rohrleitungsnetz entnommen?",
+    "loesung": "Mittels Hydranten. [cite: 98]",
+    "erklaerung": "Hydranten sind die Entnahmestellen des öffentlichen Wassernetzes."
   },
   {
-    "frage": "Was bedeuten die Abkürzungen der Dienstgrade und Funktionen (FM, OFM, HFM, BM, GBM, KBM, BBM, Jfm,  JFW, FJFW, KJFW, BJFW, BJL, BJS)?",
-    "loesung": "FM=Feuerwehrmann, OFM=Oberfeuerwehrmann, HFM=Hauptfeuerwehrmann, BM=Brandmeister, GBM=Gemeindebrandmeister, KBM=Kreisbrandmeister, BBM=Bezirksbrandmeister, Jfm=Jugendfeuerwehrmitglied, JFW=Jugendfeuerwehrwart, GJFW=Gemeinde-Jugendfeuerwehrwart, KJFW=Kreis-Jugendfeuerwehrwart, BJFW=Bezirks-Jugendfeuerwehrwart, LJFW=Landes-Jugendfeuerwehrwart, BJL=Bundesjugendleiter, BJS=Bundesjugendsekretär.",
-    "erklaerung": "Zusätzlich: Jfm=Jugendfeuerwehrmitglied, JFW=Jugendwart, KJFW=Kreisjugendwart, BJL=Bundesjugendleiter, BJS=Bundesjugendsekretär."
+    "frage": "35. Welche Hydranten gibt es?",
+    "loesung": "Unterflurhydranten, Überflurhydranten mit freiliegenden Abgängen, Überflurhydranten mit Fallmantel. [cite: 100-102]",
+    "erklaerung": "Je nach Bauart unterscheiden sich Standort und Bedienweise."
   },
   {
-    "frage": "Was ist ein Löschfahrzeug?",
-    "loesung": "Ein für die Brandbekämpfung gestaltetes Kraftfahrzeug mit Besatzung und feuerwehrtechnischer Beladung.",
-    "erklaerung": "Es dient primär dazu, Mannschaft und Gerät zur Einsatzstelle zu bringen."
+    "frage": "36. Was wird zum Öffnen der verschiedenen Hydranten benötigt?",
+    "loesung": "Unterflurhydrantenschlüssel für Unterflurhydranten; Überflurhydrantenschlüssel A oder B für alle genormten Überflurhydranten. [cite: 104-105]",
+    "erklaerung": "Das passende Werkzeug ist für den Zugriff auf das Wasser notwendig."
   },
   {
-    "frage": "Was ist ein Löschgruppenfahrzeug und was ist eine Löschgruppe?",
-    "loesung": "Das Fahrzeug nimmt eine Gruppe (1+8) auf und hat eine eingebaute Pumpe. Die Gruppe ist die kleinste selbstständige taktische Einheit.",
-    "erklaerung": "Selbstständig bedeutet, dass die Einheit einen Brand eigenständig bekämpfen kann."
+    "frage": "37. Welche Arten von Feuerlöschschläuchen gibt es?",
+    "loesung": "Druck- und Saugschläuche. [cite: 107]",
+    "erklaerung": "Unterscheidung zwischen druckfesten Leitungen und formstabilen Saugleitungen."
   },
   {
-    "frage": "Wie stark ist eine Löschgruppe und wie gliedert sie sich?",
-    "loesung": "Stärke 1 + 8. Gliederung: Gruppenführer, Maschinist, Melder, Angriffstrupp, Wassertrupp und Schlauchtrupp.",
-    "erklaerung": "Ein Trupp besteht dabei immer aus Truppführer und Truppmann (2 Personen)."
+    "frage": "38. Welche Größen haben Druckschläuche?",
+    "loesung": "Größen A, B, C, D und Druckschlauch S. [cite: 109-110]",
+    "erklaerung": "Die Normbuchstaben bezeichnen die jeweiligen Durchmesser."
   },
   {
-    "frage": "Was ist ein Trupp und eine Staffel und welche Mannschaftsstärke haben diese?",
-    "loesung": "Ein Trupp hat die Stärke 1 + 2 (selten als selbstständige Einheit). Eine Staffel hat die Stärke 1 + 5.",
-    "erklaerung": "Die Staffel ist oft bei wasserführenden Fahrzeugen (wie dem LF 20 oder HLF) zu finden."
+    "frage": "39. Welchen Durchmesser haben Druckschläuche?",
+    "loesung": "A: 110 mm, B: 75 mm, C: 52/42 mm, D: 25 mm, S: 32/28 mm. [cite: 112]",
+    "erklaerung": "Die Durchmesser bestimmen die Durchflussmenge."
   },
   {
-    "frage": "Welche Arten von Feuerwehrfahrzeugen gibt es?",
-    "loesung": "Löschfahrzeuge, Hubrettungsfahrzeuge (z. B. Drehleitern), Schlauchwagen, Rüstwagen, Sanitätsfahrzeuge und sonstige Fahrzeuge.",
-    "erklaerung": "Zu den sonstigen gehören z. B. Einsatzleitwagen (ELW) oder Mannschaftstransportwagen (MTW)."
+    "frage": "40. Welche Längen von Druckschläuchen kennt ihr?",
+    "loesung": "A: 5, 10, 20 m; B: 5, 20, 35 m; C: 15 m; D: 5, 15 m; S: 30 m. [cite: 114-116]",
+    "erklaerung": "Die Längen sind nach Norm festgelegt, um Standardstrecken zu bilden."
   },
   {
-    "frage": "Welche genormten Löschfahrzeuge gibt es und was bedeuten ihre Abkürzungen?",
-    "loesung": "LF (Löschgruppenfahrzeug), TSF (Tragkraftspritzenfahrzeug), TLF (Tanklöschfahrzeug), TroLF (Trockenlöschfahrzeug) und SLF (Sonderlöschfahrzeug).",
-    "erklaerung": "Genormt bedeutet, dass Beladung und Bauweise bundesweit einheitlich festgelegt sind."
+    "frage": "41. Welche Arten von Saugschläuchen kennt ihr?",
+    "loesung": "Saugschläuche der Größen A, B, C und D (Ansaugschlauch). [cite: 118]",
+    "erklaerung": "Unterscheidung nach den jeweiligen Normgrößen."
   },
   {
-    "frage": "Wodurch sind Feuerwehrfahrzeuge bei Einsatzfahrten und Alarmübungen gekennzeichnet?",
-    "loesung": "Durch blaues Blinklicht (Blaulicht) und das Einsatzhorn (Mehrklanghorn).",
-    "erklaerung": "Nur die Kombination aus beidem macht das 'Wegerecht' im Straßenverkehr geltend."
+    "frage": "42. Welche Aufgabe hat ein Druckschlauch?",
+    "loesung": "Der Druckschlauch dient der Weiterleitung von Löschmitteln wie Wasser und Pulver. [cite: 120]",
+    "erklaerung": "Funktion als Transportmittel für Löschmittel."
   },
   {
-    "frage": "Nenne die persönliche Ausrüstung (Übungsanzug) des Jugendfeuerwehrmitglieds.",
-    "loesung": "Kombinationsanzug, Schutzhelm (rot), festes Schuhwerk und Schutzhandschuhe.",
-    "erklaerung": "Bei Bundhosen gehört zusätzlich ein Schmalgurt mit Zweidornschnalle dazu."
+    "frage": "43. Welche Aufgabe hat der D-Ansaugschlauch?",
+    "loesung": "Der D-Ansaugschlauch dient zur Entnahme von Schaummittel aus Schaummittelbehältern. [cite: 122]",
+    "erklaerung": "Spezifischer Einsatz bei der Schaummittelzumischung."
   },
   {
-    "frage": "Welche wasserführenden Armaturen gibt es?",
-    "loesung": "Standrohr, Saugkorb, Sammelstück, Verteiler, Strahlrohr, Kupplung und Übergangsstück.",
-    "erklaerung": "Armaturen sind die 'Verbindungsteile' zwischen Schläuchen, Pumpen und Wasserquelle."
+    "frage": "44. Wozu wird eine Feuerwehrleine verwendet?",
+    "loesung": "Zur Menschenrettung, zum Aufziehen von Arbeitsgeräten, als Sicherungsleine für Feuerwehrmänner sowie zum Selbstretten. [cite: 124-127]",
+    "erklaerung": "Vielseitiges Rettungs- und Arbeitsmittel."
   },
   {
-    "frage": "Wozu dient das Standrohr?",
-    "loesung": "Es dient zur Entnahme von Wasser aus Unterflurhydranten.",
-    "erklaerung": "Man erkennt Unterflurhydranten an den ovalen Deckeln im Boden und den Schildern mit rotem Rand."
+    "frage": "45. Was sind Mehrzweckleinen und woran erkennt man diese?",
+    "loesung": "Man erkennt sie an der roten Farbe oder einer roten Kennzeichnung. Sie dürfen nicht zur Menschenrettung oder Selbstrettung verwendet werden; sie dienen als Halteleinen oder Absperrzwecke. [cite: 128-131]",
+    "erklaerung": "Wichtige Unterscheidung bezüglich des Einsatzzwecks und der Sicherheit."
   },
   {
-    "frage": "Wie viele Arten (Größen) von Standrohren gibt es?",
-    "loesung": "Zwei Arten: Mit 2 B-Abgängen oder mit 2 C-Abgängen.",
-    "erklaerung": "Das Standrohr mit B-Abgängen ist der Standard für die Wasserversorgung vom Hydranten zum Fahrzeug."
+    "frage": "46. Was versteht man unter dem Begriff „Tragbare Leitern“?",
+    "loesung": "Leitern, die von der Mannschaft getragen und auf Fahrzeugen verladen werden können. [cite: 133]",
+    "erklaerung": "Definition der Mobilität von Leitern im Feuerwehrdienst."
   },
   {
-    "frage": "Wozu dient der Saugkorb?",
-    "loesung": "Schutz vor Schmutz, Festhalten der Wassersäule (Rückschlagventil) und ermöglicht manuelles Auffüllen der Saugleitung.",
-    "erklaerung": "Er wird am Anfang der Saugleitung angekuppelt, bevor diese ins offene Gewässer gelassen wird."
+    "frage": "47. Welche genormten Tragbaren Leitern finden bei der Feuerwehr Verwendung?",
+    "loesung": "Klappleiter, Hakenleiter, Steckleiter, Schiebeleiter. [cite: 134]",
+    "erklaerung": "Standardisierte Leitertypen."
   },
   {
-    "frage": "Wozu dient das Sammelstück?",
-    "loesung": "Um zwei ankommende Leitungen in eine größere überzuleiten (z. B. 2x B auf den Pumpenzustrom).",
-    "erklaerung": "Im Inneren befindet sich eine bewegliche Klappe, die den ungenutzten Zugang verschließt."
+    "frage": "48. Auf welchem Löschfahrzeug können sich alle tragbaren Leitern befinden?",
+    "loesung": "LF 16, LF 16 TS, LF 16/12, LF 24, LF 20, LF 20/16, HLF 20/16, HLF 20. [cite: 136]",
+    "erklaerung": "Fahrzeugtypen mit umfangreicher Beladung."
   },
   {
-    "frage": "Wozu dient der Verteiler?",
-    "loesung": "Der Verteiler teilt eine ankommende Leitung in maximal drei abgehende Leitungen auf.",
-    "erklaerung": "Standard ist der B-CBC Verteiler (Eingang B, Ausgänge C-B-C)."
+    "frage": "49. Was ist ein Sicherheitsgurt und wozu wird er benötigt?",
+    "loesung": "Er gehört zur persönlichen Ausrüstung gemäß UVV und dient zur Sicherung des Feuerwehrmannes beim Besteigen von Leitern sowie bei Rettungseinsätzen in Verbindung mit Leinen. [cite: 138-139]",
+    "erklaerung": "Schutzausrüstung zur Absturzsicherung."
   },
   {
-    "frage": "Welchen Zweck hat das Strahlrohr?",
-    "loesung": "Es gibt dem Löschwasser Form (Voll-/Sprühstrahl), Richtung (Wurfweite/-höhe) und Geschwindigkeit.",
-    "erklaerung": "Gängige Typen sind Mehrzweckstrahlrohre oder moderne Hohlstrahlrohre."
+    "frage": "50. Welche Kennzeichnung hilft zum schnellen Auffinden von Unterflurhydranten?",
+    "loesung": "Hydrantenhinweisschilder (rechteckige weiße Schilder mit rotem Rand und schwarzer Schrift). [cite: 141-142]",
+    "erklaerung": "Optische Hilfe zur schnellen Wasserversorgung."
   },
   {
-    "frage": "Wozu dienen Kupplungen?",
-    "loesung": "Kupplungen verbinden Schläuche untereinander oder Schläuche mit Armaturen.",
-    "erklaerung": "In Deutschland verwenden wir fast ausschließlich die Storz-Kupplung."
+    "frage": "51. Welche Hinweise findet man auf einem Hydrantenhinweisschild?",
+    "loesung": "Durchmesser der Leitung, Entfernung zum Hydranten, Nummer des Hydranten. [cite: 144-146]",
+    "erklaerung": "Wichtige Informationen zur Lokalisierung und Belastbarkeit."
   },
   {
-    "frage": "Wozu dient das Übergangsstück?",
-    "loesung": "Zur Verbindung von Kupplungen verschiedener Größen.",
-    "erklaerung": "Beispiel: Ein Übergangsstück B-C verbindet einen B-Schlauch mit einem C-Schlauch."
+    "frage": "52. Wozu dient die Kübelspritze?",
+    "loesung": "Zur Bekämpfung von kleinen Entstehungsbränden und zum Ablöschen kleiner Brandnester bei Nachlöscharbeiten. [cite: 148]",
+    "erklaerung": "Kleingerät zur schnellen, mobilen Brandbekämpfung."
   },
   {
-    "frage": "Womit wird das Wasser aus dem Rohrleitungssystem entnommen?",
-    "loesung": "Mit Hydranten.",
-    "erklaerung": "Hydranten sind fest installierte Entnahmestellen im Wasserversorgungsnetz."
+    "frage": "53. Was sind Feuerlöscher?",
+    "loesung": "Von Hand getragene Löschgeräte, die ihren Löschmittelinhalt bei Inbetriebnahme durch gespeicherten oder erzeugten Druck ausstoßen; Höchstgewicht 20 kg. [cite: 150-151]",
+    "erklaerung": "Mobile Brandbekämpfungsgeräte."
   },
   {
-    "frage": "Welche Arten von Hydranten gibt es?",
-    "loesung": "Unterflurhydranten, Überflurhydranten und Überflurhydranten mit Fallmantel.",
-    "erklaerung": "Unterflurhydranten liegen unter dem Straßenniveau und benötigen ein Standrohr."
+    "frage": "54. Wozu dienen Feuerlöscher?",
+    "loesung": "Sie dienen zur Bekämpfung von Bränden kleineren Umfangs (Entstehungsbrände). [cite: 153]",
+    "erklaerung": "Primärer Einsatzzweck."
   },
   {
-    "frage": "Womit öffnet man einen Unterflur- und einen Überflurhydranten?",
-    "loesung": "Mit dem jeweils passenden Unterflur- oder Überflur-Hydrantenschlüssel.",
-    "erklaerung": "Der Unterflurhydrantenschlüssel hat meist einen internen Vierkant."
+    "frage": "55. Welche Arten von Feuerlöschern kennen wir?",
+    "loesung": "Pulverlöscher, Kohlendioxidlöscher, Wasserlöscher, Fettbrandlöscher. [cite: 155]",
+    "erklaerung": "Unterscheidung nach Löschmittel."
   },
   {
-    "frage": "Welche Arten von Feuerwehrschläuchen gibt es?",
-    "loesung": "Druckschläuche und Saugschläuche.",
-    "erklaerung": "Saugschläuche sind formstabil, damit sie sich bei Unterdruck nicht zusammenziehen."
+    "frage": "56. Welche Arten der Löschwasserversorgung kennen wir?",
+    "loesung": "Anhängige (Wasserleitungssystem) und unabhängige Löschwasserversorgung (Löschteiche, Flüsse, Seen, Löschwasserbehälter). [cite: 157-158]",
+    "erklaerung": "Unterscheidung in öffentliches Netz vs. natürliche/künstliche Speicher."
   },
   {
-    "frage": "Welche Arten von Druckschläuchen gibt es?",
-    "loesung": "A-Druckschlauch, B-Druckschlauch, C-Druckschlauch, D-Druckschlauch und S-Druckschlauch.",
-    "erklaerung": "Der S-Schlauch ist ein formstabiler Hochdruckschlauch für den Schnellangriff."
+    "frage": "57. Welche Wirkung hat das Wasser beim Löschen eines Brandes?",
+    "loesung": "Es hat eine kühlende Wirkung, da es dem brennbaren Stoff Wärme entzieht und ihn unter seine Zündtemperatur abkühlt. [cite: 160]",
+    "erklaerung": "Physikalischer Löscheffekt (Wärmeentzug)."
   },
   {
-    "frage": "Wie groß sind die gängigen Druckschläuche (Durchmesser und Länge)?",
-    "loesung": "A: 110mm (20m), B: 75mm (20m), C: 42/52mm (15m), D: 25mm (15m), S: 28/32mm (30m).",
-    "erklaerung": "Der C-Schlauch mit 42mm Durchmesser wird heute sehr häufig für den Innenangriff genutzt."
+    "frage": "58. Welche Brandklassen kennen wir?",
+    "loesung": "Klasse A (feste Stoffe), B (flüssige Stoffe), C (Gase), D (Metalle), F (Fettbrände). [cite: 162-171]",
+    "erklaerung": "Klassifizierung der Brände nach dem Brennstoff."
   },
   {
-    "frage": "Welche Arten von Saugschläuchen gibt es?",
-    "loesung": "A-Saugschlauch, B-Saugschlauch, C-Saugschlauch und D-Saugschlauch.",
-    "erklaerung": "Saugschläuche sind durch eine Drahtspirale verstärkt."
+    "frage": "59. Durch welche Maßnahmen - außer kühlende Wirkung - kann man einen Brand löschen?",
+    "loesung": "Durch die erstickende Löschwirkung, indem man dem brennbaren Stoff den Sauerstoff entzieht (z. B. mit Pulver). [cite: 173]",
+    "erklaerung": "Physikalischer Löscheffekt (Unterbrechung der Sauerstoffzufuhr)."
   },
   {
-    "frage": "Wie groß sind die gängigen Saugschläuche (Durchmesser und Länge)?",
-    "loesung": "A: 110mm (1,6/2,5m), B: 75mm (1,6m), C: 52mm (1,6/3,1m), D: 25mm (1,5m).",
-    "erklaerung": "A-Saugschläuche sind der Standard für die Wasserentnahme aus offenem Gewässer."
+    "frage": "60. Welche Bedingungen sind zu einer Verbrennung notwendig?",
+    "loesung": "Brennbarer Stoff, Sauerstoff, Zündtemperatur, Mengenverhältnis. [cite: 174-178]",
+    "erklaerung": "Die vier Faktoren des Verbrennungsdreiecks (plus Mengenverhältnis)."
   },
   {
-    "frage": "Welche Aufgabe haben Druck- und Saugschläuche?",
-    "loesung": "Druckschläuche leiten Löschmittel weiter; Saugschläuche dienen zur Wasserentnahme aus offenen Gewässern.",
-    "erklaerung": "Der D-Ansaugschlauch wird speziell genutzt, um Schaummittel aus Kanistern zu saugen."
+    "frage": "61. Was sagt der Begriff Zustandbedingungen bei der Verbrennung?",
+    "loesung": "Um eine vollkommene Verbrennung zu erhalten, müssen alle Stoffe im richtigen Mengenverhältnis vorhanden sein. [cite: 179-180]",
+    "erklaerung": "Das richtige Mischungsverhältnis ist entscheidend für die Qualität und Vollständigkeit der Verbrennung."
   },
   {
-    "frage": "Was ist ein Mehrzweckstrahlrohr?",
-    "loesung": "Ein Strahlrohr zur Abgabe von Wasser als Vollstrahl oder Sprühstrahl. Kurzzeichen: M-Strahlrohr (z. B. CM).",
-    "erklaerung": "Zusätzlich kann der Wasserfluss meist komplett abgestellt werden."
+    "frage": "62. Wenn das richtige Mengenverhältnis nicht gegeben ist spricht man von einer ?",
+    "loesung": "...unvollkommenen Verbrennung. [cite: 181]",
+    "erklaerung": "Fehlt das richtige Verhältnis, läuft die Verbrennung unvollständig ab."
   },
   {
-    "frage": "Welche Durchflussmengen haben die Strahlrohre (B, C, D)?",
-    "loesung": "B: 400/800 l/min, C: 100/200 l/min, D: 25/50 l/min (jeweils mit/ohne Mundstück).",
-    "erklaerung": "Das Abnehmen des Mundstücks verdoppelt die Wassermenge."
+    "frage": "63. Was soll an jeder Brandstelle vermieden werden ?",
+    "loesung": "Größerer Schaden, bedingt durch Ausdehnung des Brandes und Wasserschaden. [cite: 183-185]",
+    "erklaerung": "Ziel ist die Schadensminimierung durch gezielte Brandbekämpfung."
   },
   {
-    "frage": "Wozu wird die Fangleine verwendet?",
-    "loesung": "Zur Menschenrettung, zum Hochziehen von Arbeitsgeräten und als Sicherungsleine für Einsatzkräfte.",
-    "erklaerung": "Fangleinen sind weiß und müssen hohen Sicherheitsanforderungen entsprechen."
+    "frage": "64. Wer ist zur Feuermeldung verpflichtet?",
+    "loesung": "Jedermann ist bei Entdeckung eines Brandes zur sofortigen Meldung an die Feuerwehr oder Polizei verpflichtet. Wer dieser Verpflichtung nicht nachkommt, macht sich strafbar. [cite: 187-188]",
+    "erklaerung": "Die Meldepflicht ist gesetzlich verankert."
   },
   {
-    "frage": "Was sind Arbeitsleinen und woran erkennt man diese?",
-    "loesung": "Man erkennt sie an der roten Farbe. Sie dienen als Halteleine an Saugleitungen, als Ventilleine oder zum Absperren.",
-    "erklaerung": "Wichtig: Arbeitsleinen dürfen NIEMALS zur Eigensicherung verwendet werden!"
+    "frage": "65. Wie lauten die Notrufnummern in Deutschland?",
+    "loesung": "Feuerwehr: 112 - Polizei: 110. [cite: 190]",
+    "erklaerung": "Wichtige Nummern für Notfälle."
   },
   {
-    "frage": "Was versteht man unter 'Tragbaren Leitern' und welche Arten gibt es?",
-    "loesung": "Leitern, die von der Mannschaft getragen und auf Fahrzeugen verladen werden können. Arten: Klappleiter, Steckleiter, Hakenleiter, Schiebeleiter.",
-    "erklaerung": "Die Steckleiter ist die am häufigsten verwendete tragbare Leiter."
+    "frage": "66. Wie lautet die Notrufnummer des Rettungsdienstes?",
+    "loesung": "Seit Einführung der integrierten Leitstelle in Ingolstadt: 112. [cite: 192]",
+    "erklaerung": "Durch die Integrierte Leitstelle ist die 112 die zentrale Nummer."
   },
   {
-    "frage": "Was ist ein Feuerwehr-Sicherheitsgurt und wozu benötigt man ihn?",
-    "loesung": "Er gehört zur persönlichen Ausrüstung und dient zur Sicherung des Feuerwehrmannes (z. B. beim Arbeiten in Höhen).",
-    "erklaerung": "Der Gurt verfügt über ein Sicherungsseil mit Karabinerhaken."
+    "frage": "67. Nach welchen Richtlinien ist der Unfallschutz im Feuerwehrdienst festgelegt?",
+    "loesung": "In der UVV Feuerwehr - jetzt DGUV Vorschrift 49 - UVV Feuerwehren. [cite: 194]",
+    "erklaerung": "Die Unfallverhütungsvorschriften (UVV) regeln die Arbeitssicherheit."
   },
   {
-    "frage": "Nach welchem Hilfsmittel sucht man einen Hydranten und wie sieht es aus?",
-    "loesung": "Nach dem Hydranten-Hinweisschild. Es ist weiß, rechteckig mit rotem Rand und schwarzer Schrift.",
-    "erklaerung": "Das Schild zeigt den Leitungsdurchmesser sowie die Entfernung in Metern an."
+    "frage": "68. Und wo gilt diese Richtlinie?",
+    "loesung": "Sie gilt bei Ausbildung, Übungen, Einsätzen sowie für Feuerwehreinrichtungen und Feuerwehr-Geräte. [cite: 196]",
+    "erklaerung": "Die Richtlinie ist umfassend für den gesamten Dienstbetrieb gültig."
   },
   {
-    "frage": "Wozu wird die Kübelspritze benötigt?",
-    "loesung": "Zur Bekämpfung von kleinen Entstehungsbränden und zum Ablöschen kleiner Brandnester.",
-    "erklaerung": "Die Kübelspritze ist ein tragbares Kleinlöschgerät mit Handpumpe."
+    "frage": "69. Sind Angehörige der Jugendgruppe gegen Unfälle im Dienst versichert ?",
+    "loesung": "Ja, sie sind voll versichert, wie auch der aktive Feuerwehrmann. [cite: 198]",
+    "erklaerung": "Der Versicherungsschutz gilt für Jugendfeuerwehrmitglieder analog zu den Aktiven."
   },
   {
-    "frage": "Was sind Feuerlöscher?",
-    "loesung": "Tragbare Geräte (max. 20 kg), die ihr Löschmittel selbstständig ausstoßen.",
-    "erklaerung": "Das Maximalgewicht stellt sicher, dass der Löscher noch tragbar ist."
+    "frage": "70. In welchem Zeitraum sind Mitglieder der Jugendgruppe versichert ?",
+    "loesung": "Während der gesamten Dienstzeit - sonst nicht. [cite: 199]",
+    "erklaerung": "Der Schutz ist an die offizielle Dienstzeit gebunden."
   },
   {
-    "frage": "Wozu dienen Feuerlöscher und welche Arten gibt es?",
-    "loesung": "Zur Bekämpfung von Bränden kleineren Umfanges. Arten: Pulver-, Kohlensäure- (CO2), Wasser- und Schaumlöscher.",
-    "erklaerung": "Je nach Brandklasse muss der passende Löscher gewählt werden."
+    "frage": "71. Was gehört zur Dienstzeit ?",
+    "loesung": "Der Zeitraum des Unterrichts (Dienst) sowie der direkte Hin- und Rückweg zur Wohnung ohne zeitliche Unterbrechung. [cite: 201-203]",
+    "erklaerung": "Die Versicherung umfasst neben dem Dienst auch den direkten Weg."
   },
   {
-    "frage": "Welche Arten der Löschwasserversorgung gibt es?",
-    "loesung": "Die Sammelwasserversorgung (Hydranten) und die unabhängige Löschwasserversorgung (Teiche, Flüsse, Seen).",
-    "erklaerung": "Unabhängige Quellen sind auch Zisternen oder Brunnen."
+    "frage": "72. Was hat ein verletzter Aktiver sofort zu tun?",
+    "loesung": "Nach ärztlicher Versorgung muss die Verletzung dem Einsatzleiter oder Kommandanten gemeldet werden. Unfallmeldungen müssen innerhalb von drei Tagen bei der Unfallkasse vorliegen. [cite: 205-207]",
+    "erklaerung": "Meldepflicht und Fristen sind für die Unfallversicherung wichtig."
   },
   {
-    "frage": "Welche Wirkung hat Wasser beim Löschen?",
-    "loesung": "Wasser hat eine kühlende Wirkung, da es dem Brandherd Wärme entzieht.",
-    "erklaerung": "Der Kühleffekt ist am größten, wenn das Wasser verdampft."
+    "frage": "73. Dürfen Mitglieder der Jugendgruppe bei Übungen und Einsätzen eingesetzt werden?",
+    "loesung": "Ja, wenn sie 16 Jahre alt sind und eine Grundausbildung haben. Sie dürfen nur für Aufgaben außerhalb des Gefahrenbereichs herangezogen werden. Unter 16 Jahren kein Einsatz. [cite: 209-211]",
+    "erklaerung": "Jugendliche haben strengere Einsatzbeschränkungen."
   },
   {
-    "frage": "Was ist eine Verbrennung?",
-    "loesung": "Ein chemischer Vorgang (Oxidation), bei dem sich ein brennbarer Stoff unter Wärme und Licht mit Sauerstoff verbindet.",
-    "erklaerung": "Für eine Verbrennung müssen Brennstoff, Sauerstoff und Zündtemperatur vorhanden sein."
+    "frage": "74. Was sagt die UVV zur persönlichen (körperlichen) Anforderung?",
+    "loesung": "Für den Feuerwehrdienst dürfen nur körperlich und fachlich geeignete Feuerwehrangehörige eingesetzt werden. [cite: 213]",
+    "erklaerung": "Eignung ist Grundvoraussetzung für den Dienst."
   },
   {
-    "frage": "Durch welche Maßnahmen (außer Kühlung) kann ein Feuer gelöscht werden?",
-    "loesung": "Durch Entzug von Sauerstoff (Ersticken) oder durch Entzug des Brennstoffes.",
-    "erklaerung": "Dies vervollständigt das Prinzip der Brandbekämpfung."
+    "frage": "75. Wird in der UVV auch die persönliche Ausrüstung für die Aktiven festgelegt?",
+    "loesung": "Ja, der Umfang ist genau festgelegt, auch zum Schutz bei auftretenden Gefahren an der Einsatzstelle. [cite: 215-216]",
+    "erklaerung": "Die Ausrüstung ist Teil des Sicherheitskonzepts."
   },
   {
-    "frage": "Was soll an jeder Brandstelle vermieden werden?",
-    "loesung": "Großer Schaden durch die Ausdehnung des Brandes sowie unnötiger Wasserschaden.",
-    "erklaerung": "Ein guter Feuerwehrmann löscht effektiv, aber wasserschonend."
+    "frage": "76. Müssen Feuerwehrangehörige über die UVV informiert sein?",
+    "loesung": "Ja, jeder muss mindestens einmal über die UVV belehrt werden. Datum, Inhalt und Unterschrift sind festzuhalten. [cite: 218-219]",
+    "erklaerung": "Belehrungspflicht ist zwingend."
   },
   {
-    "frage": "Wer ist zur Feuermeldung verpflichtet?",
-    "loesung": "Jedermann. Wer ein Schadensfeuer entdeckt, muss es sofort melden.",
-    "erklaerung": "Wer eine Meldung vorsätzlich unterlässt, macht sich strafbar."
+    "frage": "77. Werden Verstöße gegen die UVV bestraft?",
+    "loesung": "Ja, nach den Bestimmungen des Sozialgesetzbuches. [cite: 221]",
+    "erklaerung": "Verstöße haben rechtliche Konsequenzen."
   },
   {
-    "frage": "Wie lauten die offiziellen Notruf-Nummern?",
-    "loesung": "Feuerwehr und Rettungsdienst: 112, Polizei: 110, Ärztlichen Bereitschaftsdienst: 116 117.",
-    "erklaerung": "Die 112 ist der europaweite Notruf."
+    "frage": "78. Wann wurde die Bundesrepublik Deutschland gebildet?",
+    "loesung": "Am 23. September 1949 auf der Grundlage des Grundgesetzes. [cite: 223]",
+    "erklaerung": "Gründungsdatum der Bundesrepublik."
   },
   {
-    "frage": "Nach welchen Richtlinien ist der Unfallschutz im Feuerwehrdienst festgelegt und wo gilt diese?",
-    "loesung": "In der Unfallverhütungsvorschrift Feuerwehren (UVV). Sie gilt bei Ausbildung, Übung, Einsatz sowie für Einrichtungen.",
-    "erklaerung": "Die UVV ist das Gesetz für die Sicherheit im Dienst."
+    "frage": "79. Wie heißt die Bundeshauptstadt von Deutschlands ?",
+    "loesung": "Berlin. [cite: 225]",
+    "erklaerung": "Aktuelle Hauptstadt."
   },
   {
-    "frage": "Sind Angehörige der Jugendfeuerwehr gegen Unfälle im Dienst versichert?",
-    "loesung": "Ja, sie sind wie jeder andere aktive Feuerwehrmann voll versichert.",
-    "erklaerung": "Der Versicherungsschutz besteht über die Kommunale Unfallversicherung Bayern (KUVB)."
+    "frage": "80. Wer ist das Staatsoberhaupt Deutschlands? Der Bundespräsident oder der Bundeskanzler?",
+    "loesung": "Der Bundespräsident. [cite: 226]",
+    "erklaerung": "Das Staatsoberhaupt repräsentiert das Land."
   },
   {
-    "frage": "In welchem Zeitraum sind Mitglieder der JF versichert?",
-    "loesung": "Während der gesamten offiziellen Dienstzeit.",
-    "erklaerung": "Privates Handeln ohne Jugendwart zählt nicht als Dienstzeit."
+    "frage": "81. Wie heißt der zur Zeit amtierende Bundespräsident?",
+    "loesung": "Frank-Walter Steinmeier[cite: 493].",
+    "erklaerung": "Aktuelles Staatsoberhaupt der Bundesrepublik Deutschland."
   },
   {
-    "frage": "Was gehört rechtlich gesehen zur Dienstzeit?",
-    "loesung": "Der Zeitraum des Unterrichts sowie der direkte Hin- und Rückweg zur Wohnung.",
-    "erklaerung": "Wichtig: Es muss der direkte, kürzeste Weg gewählt werden."
+    "frage": "82. Was ist der Bundeskanzler?",
+    "loesung": "Er ist der Chef der Bundesregierung, der die jeweiligen Richtlinien der Politik bestimmt und dafür die Verantwortung trägt[cite: 495].",
+    "erklaerung": "Der Bundeskanzler ist das Regierungsoberhaupt (Exekutive)."
   },
   {
-    "frage": "Was hat ein verletzter Aktiver sofort zu tun?",
-    "loesung": "Die Verletzung sofort dem Einsatz- oder Wehrleiter melden. Meldungen müssen innerhalb von drei Tagen bei der Unfallkasse vorliegen.",
-    "erklaerung": "Auch kleine Verletzungen sollten dokumentiert werden."
+    "frage": "83. Wie heißt der Bundeskanzler und welcher Partei gehört er an?",
+    "loesung": "Friedrich Merz - CDU[cite: 497].",
+    "erklaerung": "Amtierender Bundeskanzler laut dem vorliegenden Katalog."
   },
   {
-    "frage": "Dürfen Mitglieder der JF bei Übungen und Einsätzen eingesetzt werden?",
-    "loesung": "Kein Einsatzdienst! Ab 16 Jahren ist die Teilnahme an bestimmten Einsätzen erlaubt. Vorraussetzung ist hier eine abgeschlossene MTA-Grundausbildung",
-    "erklaerung": "Jugendschutz geht immer vor."
+    "frage": "84. Was ist der Bundestag?",
+    "loesung": "Die Volksvertretung in Deutschland, bestehend aus den vom Volk gewählten Abgeordneten[cite: 499].",
+    "erklaerung": "Das Parlament auf Bundesebene."
   },
   {
-    "frage": "Was sagt die UVV zur persönlichen Anforderung?",
-    "loesung": "Es dürfen nur körperlich und fachlich geeignete Feuerwehrangehörige eingesetzt werden.",
-    "erklaerung": "Das bedeutet: Sicherheit zuerst."
+    "frage": "85. Was ist die Bundesregierung?",
+    "loesung": "Sie ist das Kabinett Deutschlands, bestehend aus dem Bundeskanzler und den Bundesministern[cite: 501].",
+    "erklaerung": "Die Spitze der ausführenden Gewalt (Exekutive)."
   },
   {
-    "frage": "Wird in der UVV auch die persönliche Ausrüstung festgelegt?",
-    "loesung": "Ja! Der Umfang der PSA zum Schutz der Einsatzkräfte ist dort genau festgelegt.",
-    "erklaerung": "Dazu gehören Anzug, Helm, Handschuhe und Stiefel."
+    "frage": "86. Was ist der Bundespräsident?",
+    "loesung": "Er ist das Staatsoberhaupt, wird von der Bundesversammlung auf 5 Jahre gewählt, repräsentiert Deutschland und ernennt/entlässt Minister [cite: 502-505].",
+    "erklaerung": "Repräsentatives Staatsoberhaupt mit begrenzten politischen Exekutivbefugnissen."
   },
   {
-    "frage": "Müssen Feuerwehrangehörige über die UVV informiert sein?",
-    "loesung": "Ja, mindestens einmal jährlich muss eine UVV-Belehrung erfolgen und schriftlich dokumentiert werden.",
-    "erklaerung": "Zusätzlich muss bei gegebenen Anlässen darauf hingewiesen werden."
+    "frage": "87. Was ist die Bundesversammlung?",
+    "loesung": "Oberstes Bundesorgan zur Wahl des Bundespräsidenten, bestehend aus den Mitgliedern des Bundestages und Wahlleuten der Länder [cite: 506-507].",
+    "erklaerung": "Ein spezielles Verfassungsorgan, das ausschließlich zur Wahl des Bundespräsidenten zusammentritt."
   },
   {
-    "frage": "Werden Verstöße gegen die UVV bestraft?",
-    "loesung": "Ja, Verstöße gegen die UVV können bestraft werden und zum Verlust des Versicherungsschutzes führen.",
-    "erklaerung": "Sicherheit ist kein Vorschlag, sondern Pflicht."
+    "frage": "88. Was ist das Bundesverfassungsgericht?",
+    "loesung": "Höchstes Gericht in Deutschland, das u. a. über verfassungsrechtliche Streitigkeiten entscheidet [cite: 508-509].",
+    "erklaerung": "Hüter der Verfassung (Grundgesetz)."
   },
   {
-    "frage": "Ist der Gemeinde- bzw. Stadtdirektor ein gewählter Kommunalvertreter oder ein auf Zeit gewählter Beamter?",
-    "loesung": "Er ist ein auf Zeit gewählter Beamter.",
-    "erklaerung": "In Bayern entspricht dies oft Wahlbeamten in der Verwaltung."
+    "frage": "89. Was ist der Bundesrat?",
+    "loesung": "Die Vertretung der Länderinteressen in Deutschland, maßgeblich an der Bundesgesetzgebung beteiligt [cite: 510-511].",
+    "erklaerung": "Das Verfassungsorgan, durch das die Bundesländer an der Gesetzgebung des Bundes mitwirken."
   },
   {
-    "frage": "Wann wurde die Bundesrepublik Deutschland (BRD) gegründet?",
-    "loesung": "Am 23. Mai 1949 mit der Verkündung des Grundgesetzes.",
-    "erklaerung": "Das ist das offizielle Gründungsdatum."
+    "frage": "90. Mit welchem Alter wird der Bundesbürger volljährig?",
+    "loesung": "Mit 18 Jahren[cite: 512].",
+    "erklaerung": "Eintritt der unbeschränkten Geschäftsfähigkeit."
   },
   {
-    "frage": "Wie heißt die derzeitige Bundeshauptstadt der BRD?",
-    "loesung": "Berlin.",
-    "erklaerung": "Hauptstadt seit der Wiedervereinigung."
+    "frage": "91. Mit der Volljährigkeit kann der Bundesbürger?",
+    "loesung": "Das Wahlrecht bei allen politischen Wahlen wahrnehmen und verschiedene Führerscheine erwerben [cite: 513-515].",
+    "erklaerung": "Erwerb der vollen politischen und rechtlichen Mündigkeit."
   },
   {
-    "frage": "Wer ist das Staatsoberhaupt der BRD?",
-    "loesung": "Der Bundespräsident.",
-    "erklaerung": "Aktuell ist dies Frank-Walter Steinmeier."
+    "frage": "92. Welche zwei geschichtlichen Ereignisse verbinden Sie mit dem 9. November?",
+    "loesung": "Reichskristallnacht und die Öffnung der innerdeutschen Grenze[cite: 516].",
+    "erklaerung": "Zwei der bedeutendsten historischen Daten der deutschen Geschichte."
   },
   {
-    "frage": "Was ist der Bundeskanzler?",
-    "loesung": "Der Chef der Bundesregierung, der die Richtlinien der Politik bestimmt.",
-    "erklaerung": "Aktuell (Stand 2026) ist dies Friedrich Merz."
+    "frage": "93. Deutschland ist in Bundesländer gegliedert. Wie heißen diese?",
+    "loesung": "Schleswig-Holstein, Hamburg, Bremen, Niedersachsen, Nordrhein-Westfalen, Saarland, Hessen, Baden-Württemberg, Bayern, Berlin, Thüringen, Sachsen, Sachsen-Anhalt, Brandenburg, Mecklenburg-Vorpommern, Rheinland-Pfalz[cite: 518].",
+    "erklaerung": "Die 16 Bundesländer der Bundesrepublik Deutschland."
   },
   {
-    "frage": "Was ist der Bundestag?",
-    "loesung": "Die Volksvertretung der BRD, bestehend aus den vom Volk gewählten Abgeordneten.",
-    "erklaerung": "Das höchste Gremium der Gesetzgebung."
+    "frage": "94. Welche Staatsform hat Bayern?",
+    "loesung": "Bayern ist ein Freistaat[cite: 519].",
+    "erklaerung": "Bezeichnung für den souveränen Charakter des Bundeslandes Bayern."
   },
   {
-    "frage": "Was ist die Bundesregierung?",
-    "loesung": "Das Kabinett der BRD, bestehend aus dem Bundeskanzler und den Bundesministern.",
-    "erklaerung": "Die Exekutive des Staates."
+    "frage": "95. Bayern setzt sich aus Regierungsbezirken zusammen. Wie heißen diese?",
+    "loesung": "Oberfranken, Mittelfranken, Unterfranken, Oberbayern, Niederbayern, Oberpfalz, Schwaben[cite: 521].",
+    "erklaerung": "Die sieben Verwaltungsbezirke Bayerns."
   },
   {
-    "frage": "Was sind die Aufgaben des Bundespräsidenten?",
-    "loesung": "Repräsentation der BRD nach innen und außen. Er wird von der Bundesversammlung gewählt.",
-    "erklaerung": "Amtsdauer fünf Jahre."
+    "frage": "96. Wie heißt der Bayerische Ministerpräsident?",
+    "loesung": "Dr. Markus Söder[cite: 522].",
+    "erklaerung": "Regierungschef des Freistaats Bayern."
   },
   {
-    "frage": "Was ist die Bundesversammlung?",
-    "loesung": "Das oberste Bundesorgan zur Wahl des Bundespräsidenten.",
-    "erklaerung": "Besteht aus Bundestagsabgeordneten und Wahlleuten der Länder."
+    "frage": "97. Wie sind die Landesfarben Bayerns?",
+    "loesung": "weiß/blau[cite: 523].",
+    "erklaerung": "Die Farben der bayerischen Flagge."
   },
   {
-    "frage": "Was ist das Bundesverfassungsgericht?",
-    "loesung": "Das höchste Gericht der BRD. Es entscheidet über Streitigkeiten zum Grundgesetz.",
-    "erklaerung": "Sitz in Karlsruhe."
+    "frage": "98. Wie sind die Landesfarben der BRD?",
+    "loesung": "Schwarz-rot-gold[cite: 524].",
+    "erklaerung": "Die Farben der Bundesflagge."
   },
   {
-    "frage": "Was ist der Bundesrat?",
-    "loesung": "Die Vertretung der Bundesländer auf Bundesebene.",
-    "erklaerung": "Hier wirken die Länder an der Gesetzgebung mit."
+    "frage": "99. Wie heißt die Nationalhymne der BRD?",
+    "loesung": "Einigkeit und Recht und Freiheit (Deutschlandlied) [cite: 525-527].",
+    "erklaerung": "Der Text beginnt mit 'Einigkeit und Recht und Freiheit'."
   },
   {
-    "frage": "Mit welchem Alter wird ein Bundesbürger volljährig?",
-    "loesung": "Mit Vollendung des 18. Lebensjahres.",
-    "erklaerung": ""
+    "frage": "100. Wie heißt die Hymne der Bayern?",
+    "loesung": "Gott mit dir du Land der Bayern [cite: 528-529].",
+    "erklaerung": "Die offizielle Landeshymne des Freistaats Bayern."
   }
 ]
